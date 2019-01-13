@@ -1,0 +1,14 @@
+# Doxygen files
+doxygen_objdb_*
+doc/html
+doc/latex
+
+# mbed files
+.mbed
+mbed-settings.py*
+BUILD
+mbed-os
+mbed-os.*
+
+# microdrone_llc project specific files
+#TBD
