@@ -8,7 +8,7 @@ doc/latex
 mbed-settings.py*
 BUILD
 mbed-os
-mbed-os.*
+*.lib
 
 # microdrone_llc project specific files
 #TBD
